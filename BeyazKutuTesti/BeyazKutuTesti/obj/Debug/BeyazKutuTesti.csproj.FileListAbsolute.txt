@@ -1,0 +1,7 @@
+C:\Users\furka\source\repos\BeyazKutuTesti\BeyazKutuTesti\bin\Debug\BeyazKutuTesti.exe.config
+C:\Users\furka\source\repos\BeyazKutuTesti\BeyazKutuTesti\bin\Debug\BeyazKutuTesti.exe
+C:\Users\furka\source\repos\BeyazKutuTesti\BeyazKutuTesti\bin\Debug\BeyazKutuTesti.pdb
+C:\Users\furka\source\repos\BeyazKutuTesti\BeyazKutuTesti\obj\Debug\BeyazKutuTesti.csprojAssemblyReference.cache
+C:\Users\furka\source\repos\BeyazKutuTesti\BeyazKutuTesti\obj\Debug\BeyazKutuTesti.csproj.CoreCompileInputs.cache
+C:\Users\furka\source\repos\BeyazKutuTesti\BeyazKutuTesti\obj\Debug\BeyazKutuTesti.exe
+C:\Users\furka\source\repos\BeyazKutuTesti\BeyazKutuTesti\obj\Debug\BeyazKutuTesti.pdb
